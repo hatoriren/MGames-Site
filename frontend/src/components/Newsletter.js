@@ -2,8 +2,6 @@ import React from "react";
 import '../style/style.css'; 
 
 
-
-
 const Newsletter = () =>{
     return (
         <section className="newsletter" id="newsletter">

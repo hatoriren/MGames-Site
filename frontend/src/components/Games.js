@@ -10,7 +10,7 @@ import demonsSouls from '../img/g7_demons_souls.jpg';
 import reVillage from '../img/g8_resident_evil_village.jpg';
 import re4 from '../img/g9_resident_evil_4.jpg';
 import wukong from '../img/g10_wukong.jpg';
-import { Link } from 'react-router-dom';
+
 
 
 
